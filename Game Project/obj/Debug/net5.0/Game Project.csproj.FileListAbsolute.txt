@@ -1,0 +1,16 @@
+D:\.Net Self learn\Game Project\Game Project\bin\Debug\net5.0\Game Project.exe
+D:\.Net Self learn\Game Project\Game Project\bin\Debug\net5.0\Game Project.deps.json
+D:\.Net Self learn\Game Project\Game Project\bin\Debug\net5.0\Game Project.runtimeconfig.json
+D:\.Net Self learn\Game Project\Game Project\bin\Debug\net5.0\Game Project.runtimeconfig.dev.json
+D:\.Net Self learn\Game Project\Game Project\bin\Debug\net5.0\Game Project.dll
+D:\.Net Self learn\Game Project\Game Project\bin\Debug\net5.0\ref\Game Project.dll
+D:\.Net Self learn\Game Project\Game Project\bin\Debug\net5.0\Game Project.pdb
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.csproj.AssemblyReference.cache
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.AssemblyInfoInputs.cache
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.AssemblyInfo.cs
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.csproj.CoreCompileInputs.cache
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.dll
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\ref\Game Project.dll
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.pdb
+D:\.Net Self learn\Game Project\Game Project\obj\Debug\net5.0\Game Project.genruntimeconfig.cache
